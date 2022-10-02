@@ -183,7 +183,7 @@
 				<sub>
 				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
 				<br>
-				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
+				<b>After Sizzy:</b> all the tools you need are in one place, responsive design is a breeze, no more context switching.
 				</sub>
 			</div>
 		</a>
